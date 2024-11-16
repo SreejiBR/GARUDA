@@ -10,7 +10,11 @@
 
 This project was initially developed by **Mubin M Bobby**, **Muhammed Abdulla A**, and **Sreejith B R**, as part of Bachelor of Technology degree in Computer Science and Engineering at MG College of Engineering.
 
+
+![Certificate](./GARUDA/x64/res/GARUDA%20Credits%20certificate.png)
+
 ---
+
 
 ## Features
 
