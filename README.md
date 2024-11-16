@@ -77,6 +77,8 @@ The architecture of GARUDA is modular, ensuring efficient functionality across i
 2. **Video Summarization:** Upload a video file to generate a summary, which distills essential insights for efficient content consumption.
 3. **Multilingual Interaction:** Translate content to Malayalam or generate speech outputs to engage with the content audibly.
 
+**For this particular version of GARUDA, the password is:** `MGCEG@rudaFly1ng`
+
 ## Credits(Technical side)
 1. **ComponentFactory/Krypton** : https://github.com/ComponentFactory/Krypton
 2. **G4f** : https://pypi.org/project/g4f
