@@ -72,12 +72,16 @@ The architecture of GARUDA is modular, ensuring efficient functionality across i
    -Open the `py.txt` file, and make sure the file content is locally installed python library location with all dependencies installed.
 5. **Launch Garuda Software**
 
+---
+
 ## Usage Guide
 1. **Secure Content Handling:** Start by securely logging in to access GARUDA's functionalities. All data is encrypted for confidentiality.
 2. **Video Summarization:** Upload a video file to generate a summary, which distills essential insights for efficient content consumption.
 3. **Multilingual Interaction:** Translate content to Malayalam or generate speech outputs to engage with the content audibly.
 
 **For this particular version of GARUDA, the password is:** `MGCEG@rudaFly1ng`
+
+---
 
 ## Credits(Technical side)
 1. **ComponentFactory/Krypton** : https://github.com/ComponentFactory/Krypton
@@ -88,5 +92,11 @@ The architecture of GARUDA is modular, ensuring efficient functionality across i
 6. **Moviepy** : https://pypi.org/project/moviepy
 7. **Deep Translator** : https://pypi.org/project/deep-translator
 8. **Pygame** : https://pypi.org/project/pygame
+
+---
+
+
 ## Contact
 For inquiries, custom solutions, or technical support, contact me at sreejithsachu0@gmail.com.  
+
+---
