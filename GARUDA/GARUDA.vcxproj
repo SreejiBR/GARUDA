@@ -118,19 +118,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Reference Include="ComponentFactory.Krypton.Docking">
-      <HintPath>x64\Debug\ComponentFactory.Krypton.Docking.dll</HintPath>
+      <HintPath>x64\res\ComponentFactory.Krypton.Docking.dll</HintPath>
     </Reference>
     <Reference Include="ComponentFactory.Krypton.Navigator">
-      <HintPath>x64\Debug\ComponentFactory.Krypton.Navigator.dll</HintPath>
+      <HintPath>x64\res\ComponentFactory.Krypton.Navigator.dll</HintPath>
     </Reference>
     <Reference Include="ComponentFactory.Krypton.Ribbon">
-      <HintPath>x64\Debug\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+      <HintPath>x64\res\ComponentFactory.Krypton.Ribbon.dll</HintPath>
     </Reference>
     <Reference Include="ComponentFactory.Krypton.Toolkit">
-      <HintPath>x64\Debug\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+      <HintPath>x64\res\ComponentFactory.Krypton.Toolkit.dll</HintPath>
     </Reference>
     <Reference Include="ComponentFactory.Krypton.Workspace">
-      <HintPath>x64\Debug\ComponentFactory.Krypton.Workspace.dll</HintPath>
+      <HintPath>x64\res\ComponentFactory.Krypton.Workspace.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
