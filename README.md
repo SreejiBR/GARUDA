@@ -85,6 +85,8 @@ The architecture of GARUDA is modular, ensuring efficient functionality across i
 
 **For this particular version of GARUDA, the password is:** `MGCEG@rudaFly1ng`
 
+[Watch the Working Video](https://drive.google.com/file/d/1ATFHCo9rDELWWP46do9iMPKf9x0NnKXw/view?usp=drive_link)
+
 ---
 
 ## Credits(Technical side)
