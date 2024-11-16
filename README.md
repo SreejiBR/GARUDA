@@ -52,9 +52,9 @@ The architecture of GARUDA is modular, ensuring efficient functionality across i
 
 ### Python Dependencies
 - `cryptography` for data encryption
-- `speech_recognition` and `moviePy` for audio processing
+- `SpeechRecognition` and `moviePy` for audio processing
 - `transformers` for the BART model
-- `deep_translator`, `g4f`, `pygame`, `edge-tts` for translation, GPT Integration and TTS functionality.
+- `deep-translator`, `g4f`, `pygame`, `edge-tts` for translation, GPT Integration and TTS functionality.
 
 ---
 
@@ -63,9 +63,9 @@ The architecture of GARUDA is modular, ensuring efficient functionality across i
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/SreejiBR/GARUDA
-2. **Clone the Repository**
+2. **Install Python Dependencies**
    ```bash
-   pip install cryptography speech_recognition moviepy transformers deep_translator g4f pygame edge-tts
+   pip install cryptography SpeechRecognition moviepy transformers deep-translator g4f pygame edge-tts
 3. **Build the Project in Visual Studio**
    -Open GARUDA in Visual Studio 2022, load the solution file, and build.
 4. **Configure the Project**
