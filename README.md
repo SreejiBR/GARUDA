@@ -89,7 +89,7 @@ The architecture of GARUDA is modular, ensuring efficient functionality across i
 
 ---
 
-## Credits(Technical side)
+## Acknowledgements
 1. **ComponentFactory/Krypton** : https://github.com/ComponentFactory/Krypton
 2. **G4f** : https://pypi.org/project/g4f
 3. **Edge TTS** : https://pypi.org/project/edge-tts
