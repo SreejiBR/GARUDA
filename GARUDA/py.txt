@@ -1,1 +1,1 @@
-Add Python installed location here!(eg: C:/Users/Sreejith/PycharmProjects/pythonProject1/venv/Scripts/python.exe)
+Add Python installed directory location here!(eg: C:/Users/Sreejith/PycharmProjects/pythonProject1/venv/Scripts/python.exe)
